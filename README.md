@@ -6,7 +6,7 @@ All domains must belong to a single Cloudlare account. Unable to monitor differe
 #How to install CyberPanel-DNS
 
 `
-curl -l https://raw.githubusercontent.com/hostingfuze/CyberPanel-DNS/master/cyberpanel-dns.sh -o cyberpanel-dns.sh
+curl -l https://raw.githubusercontent.com/hostingfuze/CyberPanel-DNS/main/cyberpanel-dns.sh -o cyberpanel-dns.sh
 
 chmod 700 cyberpanel-dns.sh
 
